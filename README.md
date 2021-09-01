@@ -49,7 +49,7 @@
 
 <p align="center">
 
-<a href="https://https://nandhusathish.netlify.app"><img alt="Website" src="https://img.shields.io/badge/myportflio-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://nandhusathish.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/myportflio-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://www.linkedin.com/in//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nandhulinked-in-blue?style=flat-square&logo=linkedin"></a>
 
